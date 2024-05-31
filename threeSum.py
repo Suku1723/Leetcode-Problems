@@ -25,3 +25,4 @@ class Solution:
 
 sol = Solution()
 print(sol.threeSum([-2, -2, 0, 0, 2, 2]))
+print(sol.threeSum([-2, -2, 0, 0, 2, 2]))
